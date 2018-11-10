@@ -1,0 +1,37 @@
+html {
+}
+
+body {
+}
+
+#popUpTime {
+	display: none;
+}
+
+.container {
+	height: 100px;
+	margin: auto;
+	padding:  5px;
+	width: 60%;
+}
+
+.oneLine {
+	border: 1px solid #000000;
+	display: inline-block;
+	margin: 0 0;
+	vertical-align: middle;
+	height: 10px;
+}
+
+.hours {
+	width: 48px;
+}
+
+.minutes, .seconds {
+	width: 20px;
+}
+
+.spacer {
+	display: inline-block;
+	margin-right: 10px;
+}
